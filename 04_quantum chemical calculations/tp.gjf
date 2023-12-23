@@ -1,0 +1,561 @@
+%chk=E:\dft\tp.chk
+# hf/3-21g geom=connectivity
+
+Title Card Required
+
+0 1
+ N(PDBName=N,ResName=GLU,ResNum=1_l)                  15.23700000    8.64800000   21.39000000
+ C(PDBName=CA,ResName=GLU,ResNum=1_l)                 14.85200000    9.94800000   20.86100000
+ C(PDBName=C,ResName=GLU,ResNum=1_l)                  13.51700000    9.81400000   20.10600000
+ O(PDBName=O,ResName=GLU,ResNum=1_l)                  13.28200000   10.39100000   19.04900000
+ C(PDBName=CB,ResName=GLU,ResNum=1_l)                 15.90200000   10.61600000   19.94800000
+ C(PDBName=CG,ResName=GLU,ResNum=1_l)                 17.20300000   11.03100000   20.66100000
+ C(PDBName=CD,ResName=GLU,ResNum=1_l)                 18.18900000    9.88500000   20.94600000
+ O(PDBName=OE1,ResName=GLU,ResNum=1_l)                19.20900000   10.14800000   21.58100000
+ O(PDBName=OE2,ResName=GLU,ResNum=1_l)                17.94000000    8.75400000   20.53500000
+ H(PDBName=HA,ResName=GLU,ResNum=1_l)                 14.67500000   10.59300000   21.72200000
+ H(PDBName=HB1,ResName=GLU,ResNum=1_l)                16.11700000    9.99400000   19.08300000
+ H(PDBName=HB2,ResName=GLU,ResNum=1_l)                15.47000000   11.52800000   19.53400000
+ H(PDBName=HG1,ResName=GLU,ResNum=1_l)                17.73500000   11.74600000   20.03500000
+ H(PDBName=HG2,ResName=GLU,ResNum=1_l)                16.97900000   11.54200000   21.59800000
+ H(PDBName=HT1,ResName=GLU,ResNum=1_l)                15.36700000    7.97900000   20.60400000
+ H(PDBName=HT2,ResName=GLU,ResNum=1_l)                16.14400000    8.74900000   21.89100000
+ H(PDBName=HT3,ResName=GLU,ResNum=1_l)                14.51700000    8.29300000   22.04900000
+ N(PDBName=N,ResName=GLY,ResNum=2_l)                  12.66600000    9.01400000   20.78700000
+ C(PDBName=CA,ResName=GLY,ResNum=2_l)                 11.25700000    8.86000000   20.48100000
+ C(PDBName=C,ResName=GLY,ResNum=2_l)                  10.95200000    7.40500000   20.08200000
+ O(PDBName=O,ResName=GLY,ResNum=2_l)                  11.29300000    6.48000000   20.81100000
+ H(PDBName=HN,ResName=GLY,ResNum=2_l)                 13.00300000    8.55400000   21.60800000
+ H(PDBName=HA1,ResName=GLY,ResNum=2_l)                10.72200000    9.09200000   21.40200000
+ H(PDBName=HA2,ResName=GLY,ResNum=2_l)                10.96900000    9.60200000   19.73900000
+ N(PDBName=N,ResName=PRO,ResNum=3_l)                  10.28200000    7.22400000   18.90800000
+ C(PDBName=CA,ResName=PRO,ResNum=3_l)                  9.79300000    5.91400000   18.49800000
+ C(PDBName=C,ResName=PRO,ResNum=3_l)                  10.95400000    4.97500000   18.15600000
+ O(PDBName=O,ResName=PRO,ResNum=3_l)                  11.73100000    5.20600000   17.23800000
+ C(PDBName=CB,ResName=PRO,ResNum=3_l)                  8.91500000    6.19300000   17.26800000
+ C(PDBName=CG,ResName=PRO,ResNum=3_l)                  9.38200000    7.55000000   16.73800000
+ C(PDBName=CD,ResName=PRO,ResNum=3_l)                  9.91100000    8.28600000   17.96800000
+ H(PDBName=HA,ResName=PRO,ResNum=3_l)                  9.18800000    5.47500000   19.29300000
+ H(PDBName=HB1,ResName=PRO,ResNum=3_l)                 8.95700000    5.41300000   16.50800000
+ H(PDBName=HB2,ResName=PRO,ResNum=3_l)                 7.87400000    6.27500000   17.58100000
+ H(PDBName=HG1,ResName=PRO,ResNum=3_l)                10.19000000    7.39900000   16.02200000
+ H(PDBName=HG2,ResName=PRO,ResNum=3_l)                 8.58800000    8.10000000   16.23300000
+ H(PDBName=HD1,ResName=PRO,ResNum=3_l)                10.75600000    8.92500000   17.71200000
+ H(PDBName=HD2,ResName=PRO,ResNum=3_l)                 9.12500000    8.89700000   18.41300000
+ N(PDBName=N,ResName=VAL,ResNum=4_l)                  10.98600000    3.90000000   18.96100000
+ C(PDBName=CA,ResName=VAL,ResNum=4_l)                 11.86800000    2.77300000   18.71600000
+ C(PDBName=C,ResName=VAL,ResNum=4_l)                  11.01900000    1.71600000   17.99800000
+ O(PDBName=O,ResName=VAL,ResNum=4_l)                   9.95800000    1.32500000   18.46900000
+ C(PDBName=CB,ResName=VAL,ResNum=4_l)                 12.46100000    2.21800000   20.03900000
+ C(PDBName=CG1,ResName=VAL,ResNum=4_l)                13.90800000    2.67900000   20.23500000
+ C(PDBName=CG2,ResName=VAL,ResNum=4_l)                11.62100000    2.55700000   21.28300000
+ H(PDBName=HN,ResName=VAL,ResNum=4_l)                 10.32800000    3.83600000   19.71100000
+ H(PDBName=HA,ResName=VAL,ResNum=4_l)                 12.67100000    3.09200000   18.04700000
+ H(PDBName=HB,ResName=VAL,ResNum=4_l)                 12.50700000    1.13000000   19.97200000
+ H(PDBName=1HG1,ResName=VAL,ResNum=4_l)               14.35600000    2.20400000   21.10700000
+ H(PDBName=2HG1,ResName=VAL,ResNum=4_l)               13.95800000    3.75900000   20.37800000
+ H(PDBName=3HG1,ResName=VAL,ResNum=4_l)               14.52000000    2.42000000   19.37200000
+ H(PDBName=1HG2,ResName=VAL,ResNum=4_l)               12.02100000    2.05800000   22.16600000
+ H(PDBName=2HG2,ResName=VAL,ResNum=4_l)               10.58500000    2.23900000   21.16500000
+ H(PDBName=3HG2,ResName=VAL,ResNum=4_l)               11.62800000    3.62800000   21.49100000
+ N(PDBName=N,ResName=GLY,ResNum=5_l)                  11.55300000    1.28800000   16.83500000
+ C(PDBName=CA,ResName=GLY,ResNum=5_l)                 10.94900000    0.17600000   16.11200000
+ C(PDBName=C,ResName=GLY,ResNum=5_l)                   9.95900000    0.61400000   15.02100000
+ O(PDBName=O,ResName=GLY,ResNum=5_l)                   9.32900000   -0.22800000   14.39300000
+ H(PDBName=HN,ResName=GLY,ResNum=5_l)                 12.39900000    1.69900000   16.49400000
+ H(PDBName=HA1,ResName=GLY,ResNum=5_l)                11.77200000   -0.36600000   15.64600000
+ H(PDBName=HA2,ResName=GLY,ResNum=5_l)                10.45900000   -0.49800000   16.81700000
+ N(PDBName=N,ResName=LEU,ResNum=6_l)                   9.87500000    1.95100000   14.80800000
+ C(PDBName=CA,ResName=LEU,ResNum=6_l)                  9.19000000    2.49600000   13.63100000
+ C(PDBName=C,ResName=LEU,ResNum=6_l)                  10.17700000    3.20000000   12.68600000
+ O(PDBName=O,ResName=LEU,ResNum=6_l)                   9.94400000    3.26000000   11.48600000
+ C(PDBName=CB,ResName=LEU,ResNum=6_l)                  8.06600000    3.48900000   14.01500000
+ C(PDBName=CG,ResName=LEU,ResNum=6_l)                  6.61900000    2.94700000   13.98700000
+ C(PDBName=CD1,ResName=LEU,ResNum=6_l)                 6.17200000    2.42800000   15.35500000
+ C(PDBName=CD2,ResName=LEU,ResNum=6_l)                 6.35000000    1.92300000   12.87200000
+ H(PDBName=HN,ResName=LEU,ResNum=6_l)                 10.35300000    2.58300000   15.41700000
+ H(PDBName=HA,ResName=LEU,ResNum=6_l)                  8.80100000    1.66600000   13.04800000
+ H(PDBName=HB1,ResName=LEU,ResNum=6_l)                 8.28100000    3.93600000   14.98500000
+ H(PDBName=HB2,ResName=LEU,ResNum=6_l)                 8.07600000    4.33200000   13.32500000
+ H(PDBName=HG,ResName=LEU,ResNum=6_l)                  5.97900000    3.80300000   13.76900000
+ H(PDBName=1HD1,ResName=LEU,ResNum=6_l)                5.12900000    2.11100000   15.32700000
+ H(PDBName=2HD1,ResName=LEU,ResNum=6_l)                6.25400000    3.21100000   16.11000000
+ H(PDBName=3HD1,ResName=LEU,ResNum=6_l)                6.77700000    1.58100000   15.67700000
+ H(PDBName=1HD2,ResName=LEU,ResNum=6_l)                5.28100000    1.75200000   12.74700000
+ H(PDBName=2HD2,ResName=LEU,ResNum=6_l)                6.79900000    0.95500000   13.10000000
+ H(PDBName=3HD2,ResName=LEU,ResNum=6_l)                6.74400000    2.26400000   11.91400000
+ N(PDBName=N,ResName=ALA,ResNum=7_l)                  11.27000000    3.72000000   13.27700000
+ C(PDBName=CA,ResName=ALA,ResNum=7_l)                 12.32900000    4.33200000   12.48000000
+ C(PDBName=C,ResName=ALA,ResNum=7_l)                  13.66900000    3.87000000   13.06800000
+ O(PDBName=O,ResName=ALA,ResNum=7_l)                  13.75700000    2.81000000   13.67800000
+ C(PDBName=CB,ResName=ALA,ResNum=7_l)                 12.14100000    5.85800000   12.54200000
+ H(PDBName=HN,ResName=ALA,ResNum=7_l)                 11.38400000    3.65800000   14.26800000
+ H(PDBName=HA,ResName=ALA,ResNum=7_l)                 12.26800000    3.97200000   11.45100000
+ H(PDBName=HB1,ResName=ALA,ResNum=7_l)                12.85200000    6.38900000   11.90900000
+ H(PDBName=HB2,ResName=ALA,ResNum=7_l)                12.25400000    6.22700000   13.56100000
+ H(PDBName=HB3,ResName=ALA,ResNum=7_l)                11.14300000    6.13700000   12.20400000
+ N(PDBName=N,ResName=ASP,ResNum=8_l)                  14.68700000    4.73400000   12.87000000
+ C(PDBName=CA,ResName=ASP,ResNum=8_l)                 15.95500000    4.60000000   13.57200000
+ C(PDBName=C,ResName=ASP,ResNum=8_l)                  15.91900000    5.61400000   14.73400000
+ O(PDBName=O,ResName=ASP,ResNum=8_l)                  15.74100000    6.80300000   14.49700000
+ C(PDBName=CB,ResName=ASP,ResNum=8_l)                 17.10400000    4.93600000   12.60700000
+ C(PDBName=CG,ResName=ASP,ResNum=8_l)                 18.46800000    4.55500000   13.20500000
+ O(PDBName=OD1,ResName=ASP,ResNum=8_l)                19.06000000    5.37800000   13.90100000
+ O(PDBName=OD2,ResName=ASP,ResNum=8_l)                18.92000000    3.43600000   12.96900000
+ H(PDBName=HN,ResName=ASP,ResNum=8_l)                 14.55000000    5.53600000   12.28900000
+ H(PDBName=HA,ResName=ASP,ResNum=8_l)                 16.04600000    3.56700000   13.90700000
+ H(PDBName=HB1,ResName=ASP,ResNum=8_l)                16.97500000    4.40200000   11.66500000
+ H(PDBName=HB2,ResName=ASP,ResNum=8_l)                17.11200000    5.99900000   12.37000000
+ N(PDBName=N,ResName=PRO,ResNum=9_l)                  16.07900000    5.12300000   15.99600000
+ C(PDBName=CA,ResName=PRO,ResNum=9_l)                 15.96200000    5.98900000   17.17100000
+ C(PDBName=C,ResName=PRO,ResNum=9_l)                  17.07000000    7.03300000   17.33300000
+ O(PDBName=O,ResName=PRO,ResNum=9_l)                  16.89600000    8.02500000   18.02400000
+ C(PDBName=CB,ResName=PRO,ResNum=9_l)                 15.98800000    5.00800000   18.34900000
+ C(PDBName=CG,ResName=PRO,ResNum=9_l)                 16.74700000    3.78800000   17.82400000
+ C(PDBName=CD,ResName=PRO,ResNum=9_l)                 16.40500000    3.73700000   16.33400000
+ H(PDBName=HA,ResName=PRO,ResNum=9_l)                 15.01000000    6.51300000   17.15600000
+ H(PDBName=HB1,ResName=PRO,ResNum=9_l)                16.42600000    5.41800000   19.26000000
+ H(PDBName=HB2,ResName=PRO,ResNum=9_l)                14.96400000    4.71800000   18.58100000
+ H(PDBName=HG1,ResName=PRO,ResNum=9_l)                17.81800000    3.95500000   17.94300000
+ H(PDBName=HG2,ResName=PRO,ResNum=9_l)                16.49600000    2.86600000   18.34800000
+ H(PDBName=HD1,ResName=PRO,ResNum=9_l)                17.25000000    3.36900000   15.75000000
+ H(PDBName=HD2,ResName=PRO,ResNum=9_l)                15.53700000    3.10400000   16.15100000
+ N(PDBName=N,ResName=LYS,ResNum=10_l)                 18.18900000    6.75800000   16.64100000
+ C(PDBName=CA,ResName=LYS,ResNum=10_l)                19.37500000    7.60000000   16.71500000
+ C(PDBName=C,ResName=LYS,ResNum=10_l)                 19.56800000    8.23400000   15.33100000
+ O(PDBName=O,ResName=LYS,ResNum=10_l)                 18.66200000    8.88200000   14.81800000
+ C(PDBName=CB,ResName=LYS,ResNum=10_l)                20.58500000    6.81500000   17.25200000
+ C(PDBName=CG,ResName=LYS,ResNum=10_l)                21.69700000    7.76200000   17.74000000
+ C(PDBName=CD,ResName=LYS,ResNum=10_l)                23.01000000    7.04400000   18.05200000
+ C(PDBName=CE,ResName=LYS,ResNum=10_l)                24.07600000    8.02600000   18.55400000
+ N(PDBName=NZ,ResName=LYS,ResNum=10_l)                25.30300000    7.36500000   18.97500000
+ H(PDBName=HN,ResName=LYS,ResNum=10_l)                18.23100000    5.94000000   16.06700000
+ H(PDBName=HA,ResName=LYS,ResNum=10_l)                19.16600000    8.41800000   17.40700000
+ H(PDBName=HB1,ResName=LYS,ResNum=10_l)               20.95900000    6.11700000   16.50200000
+ H(PDBName=HB2,ResName=LYS,ResNum=10_l)               20.26600000    6.19800000   18.09300000
+ H(PDBName=HG1,ResName=LYS,ResNum=10_l)               21.89700000    8.53900000   17.00400000
+ H(PDBName=HG2,ResName=LYS,ResNum=10_l)               21.34800000    8.28400000   18.63200000
+ H(PDBName=HD1,ResName=LYS,ResNum=10_l)               22.82800000    6.27000000   18.79500000
+ H(PDBName=HD2,ResName=LYS,ResNum=10_l)               23.37200000    6.53600000   17.15700000
+ H(PDBName=HE1,ResName=LYS,ResNum=10_l)               24.33700000    8.74400000   17.77600000
+ H(PDBName=HE2,ResName=LYS,ResNum=10_l)               23.70400000    8.59300000   19.40700000
+ H(PDBName=HZ1,ResName=LYS,ResNum=10_l)               25.98000000    8.07900000   19.31100000
+ H(PDBName=HZ2,ResName=LYS,ResNum=10_l)               25.08700000    6.70300000   19.74900000
+ H(PDBName=HZ3,ResName=LYS,ResNum=10_l)               25.71100000    6.84100000   18.17500000
+ N(PDBName=N,ResName=ILE,ResNum=11_l)                 20.78200000    8.05400000   14.77300000
+ C(PDBName=CA,ResName=ILE,ResNum=11_l)                21.16900000    8.83900000   13.61800000
+ C(PDBName=C,ResName=ILE,ResNum=11_l)                 21.53900000   10.24100000   14.11200000
+ O(PDBName=O,ResName=ILE,ResNum=11_l)                 20.68900000   11.12400000   14.13900000
+ C(PDBName=CB,ResName=ILE,ResNum=11_l)                20.15800000    8.78100000   12.44000000
+ C(PDBName=CG1,ResName=ILE,ResNum=11_l)               19.13300000    9.93800000   12.27800000
+ C(PDBName=CG2,ResName=ILE,ResNum=11_l)               20.94600000    8.66500000   11.14300000
+ C(PDBName=CD1,ResName=ILE,ResNum=11_l)               17.88400000    9.50600000   11.50600000
+ H(PDBName=HN,ResName=ILE,ResNum=11_l)                21.45600000    7.45500000   15.20400000
+ H(PDBName=HA,ResName=ILE,ResNum=11_l)                22.06000000    8.31400000   13.28700000
+ H(PDBName=HB,ResName=ILE,ResNum=11_l)                19.59400000    7.85300000   12.54800000
+ H(PDBName=1HG1,ResName=ILE,ResNum=11_l)              18.76900000   10.35000000   13.21100000
+ H(PDBName=2HG1,ResName=ILE,ResNum=11_l)              19.61700000   10.78000000   11.78400000
+ H(PDBName=1HG2,ResName=ILE,ResNum=11_l)              20.26100000    8.84900000   10.32800000
+ H(PDBName=2HG2,ResName=ILE,ResNum=11_l)              21.73800000    9.41100000   11.08000000
+ H(PDBName=3HG2,ResName=ILE,ResNum=11_l)              21.38700000    7.67500000   11.02200000
+ H(PDBName=1HD1,ResName=ILE,ResNum=11_l)              17.09800000   10.25700000   11.58000000
+ H(PDBName=2HD1,ResName=ILE,ResNum=11_l)              18.11200000    9.36600000   10.45300000
+ H(PDBName=3HD1,ResName=ILE,ResNum=11_l)              17.47600000    8.57600000   11.90000000
+ N(PDBName=N,ResName=PRO,ResNum=12_l)                 22.82800000   10.42900000   14.52800000
+ C(PDBName=CA,ResName=PRO,ResNum=12_l)                23.26700000   11.72400000   15.03900000
+ C(PDBName=C,ResName=PRO,ResNum=12_l)                 23.14700000   12.74300000   13.90400000
+ O(PDBName=O,ResName=PRO,ResNum=12_l)                 23.77600000   12.59300000   12.86400000
+ C(PDBName=CB,ResName=PRO,ResNum=12_l)                24.70900000   11.50500000   15.51500000
+ C(PDBName=CG,ResName=PRO,ResNum=12_l)                25.17300000   10.22700000   14.81200000
+ C(PDBName=CD,ResName=PRO,ResNum=12_l)                23.90000000    9.42900000   14.51700000
+ H(PDBName=HA,ResName=PRO,ResNum=12_l)                22.63700000   12.02700000   15.87700000
+ H(PDBName=HB1,ResName=PRO,ResNum=12_l)               25.36900000   12.35300000   15.32500000
+ H(PDBName=HB2,ResName=PRO,ResNum=12_l)               24.70600000   11.33500000   16.59200000
+ H(PDBName=HG1,ResName=PRO,ResNum=12_l)               25.63600000   10.49400000   13.86500000
+ H(PDBName=HG2,ResName=PRO,ResNum=12_l)               25.90300000    9.66200000   15.39200000
+ H(PDBName=HD1,ResName=PRO,ResNum=12_l)               23.99700000    8.93700000   13.54900000
+ H(PDBName=HD2,ResName=PRO,ResNum=12_l)               23.71100000    8.68000000   15.28600000
+ N(PDBName=N,ResName=ALA,ResNum=13_l)                 22.27400000   13.73900000   14.17900000
+ C(PDBName=CA,ResName=ALA,ResNum=13_l)                21.91800000   14.81200000   13.25300000
+ C(PDBName=C,ResName=ALA,ResNum=13_l)                 20.65300000   14.45300000   12.46600000
+ O(PDBName=O,ResName=ALA,ResNum=13_l)                 20.35500000   13.29500000   12.20500000
+ C(PDBName=CB,ResName=ALA,ResNum=13_l)                23.02400000   15.21200000   12.26600000
+ H(PDBName=HN,ResName=ALA,ResNum=13_l)                21.82600000   13.72900000   15.07300000
+ H(PDBName=HA,ResName=ALA,ResNum=13_l)                21.69600000   15.65900000   13.90300000
+ H(PDBName=HB1,ResName=ALA,ResNum=13_l)               22.80200000   16.17100000   11.79700000
+ H(PDBName=HB2,ResName=ALA,ResNum=13_l)               23.15000000   14.48200000   11.46500000
+ H(PDBName=HB3,ResName=ALA,ResNum=13_l)               23.97500000   15.30600000   12.77600000
+ N(PDBName=N,ResName=LEU,ResNum=14_l)                 19.96100000   15.54500000   12.08800000
+ C(PDBName=CA,ResName=LEU,ResNum=14_l)                18.87200000   15.50000000   11.12800000
+ C(PDBName=C,ResName=LEU,ResNum=14_l)                 18.79300000   16.85000000   10.39100000
+ O(PDBName=O,ResName=LEU,ResNum=14_l)                 17.91400000   17.66900000   10.63100000
+ C(PDBName=CB,ResName=LEU,ResNum=14_l)                17.51300000   15.33400000   11.88300000
+ C(PDBName=CG,ResName=LEU,ResNum=14_l)                16.22900000   15.13400000   11.01600000
+ C(PDBName=CD1,ResName=LEU,ResNum=14_l)               15.15100000   14.33900000   11.77100000
+ C(PDBName=CD2,ResName=LEU,ResNum=14_l)               15.55600000   16.41300000   10.47500000
+ H(PDBName=HN,ResName=LEU,ResNum=14_l)                20.26400000   16.43600000   12.41400000
+ H(PDBName=HA,ResName=LEU,ResNum=14_l)                19.05200000   14.69100000   10.41900000
+ H(PDBName=HB1,ResName=LEU,ResNum=14_l)               17.61600000   14.47500000   12.54200000
+ H(PDBName=HB2,ResName=LEU,ResNum=14_l)               17.34000000   16.17900000   12.55000000
+ H(PDBName=HG,ResName=LEU,ResNum=14_l)                16.51700000   14.56300000   10.14400000
+ H(PDBName=1HD1,ResName=LEU,ResNum=14_l)              14.24100000   14.24600000   11.17800000
+ H(PDBName=2HD1,ResName=LEU,ResNum=14_l)              15.48300000   13.33300000   12.01400000
+ H(PDBName=3HD1,ResName=LEU,ResNum=14_l)              14.87000000   14.83800000   12.69700000
+ H(PDBName=1HD2,ResName=LEU,ResNum=14_l)              14.51700000   16.23900000   10.20000000
+ H(PDBName=2HD2,ResName=LEU,ResNum=14_l)              15.54100000   17.21500000   11.20900000
+ H(PDBName=3HD2,ResName=LEU,ResNum=14_l)              16.03400000   16.77800000    9.56900000
+ N(PDBName=N,ResName=ALA,ResNum=15_l)                 19.75400000   16.99200000    9.44800000
+ C(PDBName=CA,ResName=ALA,ResNum=15_l)                19.69600000   18.04800000    8.43600000
+ C(PDBName=C,ResName=ALA,ResNum=15_l)                 20.08000000   17.45100000    7.06800000
+ O(PDBName=O,ResName=ALA,ResNum=15_l)                 21.24700000   17.46100000    6.69200000
+ C(PDBName=CB,ResName=ALA,ResNum=15_l)                20.69900000   19.17400000    8.72900000
+ H(PDBName=HN,ResName=ALA,ResNum=15_l)                20.47400000   16.30100000    9.38700000
+ H(PDBName=HA,ResName=ALA,ResNum=15_l)                18.70300000   18.48800000    8.42400000
+ H(PDBName=HB1,ResName=ALA,ResNum=15_l)               20.88900000   19.79000000    7.84900000
+ H(PDBName=HB2,ResName=ALA,ResNum=15_l)               21.66200000   18.78200000    9.06000000
+ H(PDBName=HB3,ResName=ALA,ResNum=15_l)               20.31000000   19.85300000    9.48100000
+ N(PDBName=N,ResName=PRO,ResNum=16_l)                 19.04500000   16.93300000    6.33700000
+ C(PDBName=CA,ResName=PRO,ResNum=16_l)                19.21300000   16.32600000    5.01400000
+ C(PDBName=C,ResName=PRO,ResNum=16_l)                 19.83200000   17.31100000    4.00600000
+ O(PDBName=O,ResName=PRO,ResNum=16_l)                 21.04700000   17.43800000    3.90900000
+ C(PDBName=CB,ResName=PRO,ResNum=16_l)                17.81300000   15.82300000    4.59600000
+ C(PDBName=CG,ResName=PRO,ResNum=16_l)                16.83600000   16.56200000    5.50000000
+ C(PDBName=CD,ResName=PRO,ResNum=16_l)                17.63500000   16.92500000    6.75800000
+ H(PDBName=HA,ResName=PRO,ResNum=16_l)                19.89600000   15.48000000    5.09100000
+ H(PDBName=HB1,ResName=PRO,ResNum=16_l)               17.57100000   15.92400000    3.53700000
+ H(PDBName=HB2,ResName=PRO,ResNum=16_l)               17.71000000   14.76700000    4.78700000
+ H(PDBName=HG1,ResName=PRO,ResNum=16_l)               16.52900000   17.46300000    4.97600000
+ H(PDBName=HG2,ResName=PRO,ResNum=16_l)               15.93700000   15.98600000    5.71900000
+ H(PDBName=HD1,ResName=PRO,ResNum=16_l)               17.29500000   17.89200000    7.12300000
+ H(PDBName=HD2,ResName=PRO,ResNum=16_l)               17.49400000   16.17900000    7.54100000
+ N(PDBName=N,ResName=LEU,ResNum=17_l)                 18.91600000   17.97900000    3.27500000
+ C(PDBName=CA,ResName=LEU,ResNum=17_l)                19.23200000   19.06500000    2.36900000
+ C(PDBName=C,ResName=LEU,ResNum=17_l)                 19.76700000   18.52300000    1.06700000
+ O(PDBName=O,ResName=LEU,ResNum=17_l)                 20.73700000   17.56400000    1.05100000
+ C(PDBName=CB,ResName=LEU,ResNum=17_l)                19.99900000   20.17800000    3.11600000
+ C(PDBName=CG,ResName=LEU,ResNum=17_l)                20.21000000   21.47900000    2.33400000
+ C(PDBName=CD1,ResName=LEU,ResNum=17_l)               18.91000000   21.98800000    1.70500000
+ C(PDBName=CD2,ResName=LEU,ResNum=17_l)               20.84400000   22.54800000    3.23500000
+ H(PDBName=HN,ResName=LEU,ResNum=17_l)                17.94700000   17.76900000    3.40100000
+ H(PDBName=HA,ResName=LEU,ResNum=17_l)                18.23500000   19.45000000    2.15700000
+ H(PDBName=HB1,ResName=LEU,ResNum=17_l)               19.44400000   20.41200000    4.02600000
+ H(PDBName=HB2,ResName=LEU,ResNum=17_l)               20.97100000   19.82300000    3.45300000
+ H(PDBName=HG,ResName=LEU,ResNum=17_l)                20.91400000   21.27200000    1.53900000
+ H(PDBName=1HD1,ResName=LEU,ResNum=17_l)              19.04700000   22.95600000    1.22700000
+ H(PDBName=2HD1,ResName=LEU,ResNum=17_l)              18.15900000   22.10900000    2.48100000
+ H(PDBName=3HD1,ResName=LEU,ResNum=17_l)              18.52900000   21.30400000    0.94200000
+ H(PDBName=1HD2,ResName=LEU,ResNum=17_l)              20.98800000   23.48600000    2.70100000
+ H(PDBName=2HD2,ResName=LEU,ResNum=17_l)              21.82200000   22.22500000    3.58700000
+ H(PDBName=3HD2,ResName=LEU,ResNum=17_l)              20.22100000   22.75800000    4.10400000
+ H(PDBName=HO,ResName=LEU,ResNum=17_l)                20.95600000   17.33100000    0.16000000
+ N(PDBName=N,ResName=GLY,ResNum=18_l)                 19.02400000   18.75300000   -0.18800000
+ C(PDBName=CA,ResName=GLY,ResNum=18_l)                18.34500000   17.64400000   -0.85600000
+ C(PDBName=C,ResName=GLY,ResNum=18_l)                 16.83700000   17.90300000   -0.91600000
+ O(PDBName=O,ResName=GLY,ResNum=18_l)                 16.34300000   18.73600000   -1.66500000
+ H(PDBName=HN,ResName=GLY,ResNum=18_l)                18.92800000   19.68300000   -0.54600000
+ H(PDBName=HA1,ResName=GLY,ResNum=18_l)               18.75400000   17.57700000   -1.86400000
+ H(PDBName=HA2,ResName=GLY,ResNum=18_l)               18.55500000   16.71900000   -0.31700000
+ N(PDBName=N,ResName=ALA,ResNum=19_l)                 16.16300000   17.15700000   -0.01200000
+ C(PDBName=CA,ResName=ALA,ResNum=19_l)                14.86500000   17.53300000    0.53700000
+ C(PDBName=C,ResName=ALA,ResNum=19_l)                 14.95200000   18.99100000    1.07700000
+ O(PDBName=O,ResName=ALA,ResNum=19_l)                 15.70400000   19.24900000    2.00900000
+ C(PDBName=CB,ResName=ALA,ResNum=19_l)                14.51400000   16.58200000    1.68700000
+ H(PDBName=HN,ResName=ALA,ResNum=19_l)                16.65700000   16.41100000    0.43300000
+ H(PDBName=HA,ResName=ALA,ResNum=19_l)                14.14800000   17.40200000   -0.26800000
+ H(PDBName=HB1,ResName=ALA,ResNum=19_l)               13.53600000   16.81700000    2.10900000
+ H(PDBName=HB2,ResName=ALA,ResNum=19_l)               15.24800000   16.63300000    2.49300000
+ H(PDBName=HB3,ResName=ALA,ResNum=19_l)               14.48100000   15.55200000    1.33400000
+ N(PDBName=N,ResName=PRO,ResNum=20_l)                 14.20300000   19.93300000    0.41900000
+ C(PDBName=CA,ResName=PRO,ResNum=20_l)                14.51900000   21.36800000    0.44300000
+ C(PDBName=C,ResName=PRO,ResNum=20_l)                 14.68400000   22.00000000    1.84100000
+ C(PDBName=CB,ResName=PRO,ResNum=20_l)                13.36600000   22.05000000   -0.32100000
+ C(PDBName=CG,ResName=PRO,ResNum=20_l)                12.59700000   20.94500000   -1.04600000
+ C(PDBName=CD,ResName=PRO,ResNum=20_l)                13.11700000   19.61200000   -0.50800000
+ O(PDBName=1OCT,ResName=PRO,ResNum=20_l)              13.69800000   22.11000000    2.56000000
+ O(PDBName=2OCT,ResName=PRO,ResNum=20_l)              15.79200000   22.38800000    2.19700000
+ H(PDBName=HA,ResName=PRO,ResNum=20_l)                15.44600000   21.51000000   -0.11600000
+ H(PDBName=HB1,ResName=PRO,ResNum=20_l)               12.67500000   22.57100000    0.34200000
+ H(PDBName=HB2,ResName=PRO,ResNum=20_l)               13.73800000   22.80500000   -1.00900000
+ H(PDBName=HG1,ResName=PRO,ResNum=20_l)               11.52300000   21.04300000   -0.88200000
+ H(PDBName=HG2,ResName=PRO,ResNum=20_l)               12.77300000   21.00400000   -2.11900000
+ H(PDBName=HD1,ResName=PRO,ResNum=20_l)               12.33600000   19.05200000    0.00700000
+ H(PDBName=HD2,ResName=PRO,ResNum=20_l)               13.48500000   19.02100000   -1.34600000
+
+ 1 15 1.0 17 1.0 2 1.0 16 1.0
+ 2 3 1.0 5 1.0 10 1.0
+ 3 4 2.0 18 1.5
+ 4
+ 5 6 1.0 11 1.0 12 1.0
+ 6 7 1.0 13 1.0 14 1.0
+ 7 8 2.0 9 2.0
+ 8
+ 9
+ 10
+ 11
+ 12
+ 13
+ 14
+ 15
+ 16
+ 17
+ 18 19 1.0 22 1.0
+ 19 20 1.0 23 1.0 24 1.0
+ 20 21 2.0 25 1.5
+ 21
+ 22
+ 23
+ 24
+ 25 26 1.0 31 1.0
+ 26 27 1.0 29 1.0 32 1.0
+ 27 28 2.0 39 1.5
+ 28
+ 29 34 1.0 30 1.0 33 1.0
+ 30 31 1.0 35 1.0 36 1.0
+ 31 37 1.0 38 1.0
+ 32
+ 33
+ 34
+ 35
+ 36
+ 37
+ 38
+ 39 40 1.0 46 1.0
+ 40 41 1.0 43 1.0 47 1.0
+ 41 42 2.0 55 1.5
+ 42
+ 43 48 1.0 44 1.0 45 1.0
+ 44 50 1.0 49 1.0 51 1.0
+ 45 52 1.0 53 1.0 54 1.0
+ 46
+ 47
+ 48
+ 49
+ 50
+ 51
+ 52
+ 53
+ 54
+ 55 56 1.0 59 1.0
+ 56 57 1.0 60 1.0 61 1.0
+ 57 58 2.0 62 1.5
+ 58
+ 59
+ 60
+ 61
+ 62 63 1.0 70 1.0
+ 63 66 1.0 71 1.0 64 1.0
+ 64 65 2.0 81 1.5
+ 65
+ 66 67 1.0 73 1.0 72 1.0
+ 67 69 1.0 68 1.0 74 1.0
+ 68 75 1.0 77 1.0 76 1.0
+ 69 78 1.0 80 1.0 79 1.0
+ 70
+ 71
+ 72
+ 73
+ 74
+ 75
+ 76
+ 77
+ 78
+ 79
+ 80
+ 81 82 1.0 86 1.0
+ 82 85 1.0 87 1.0 83 1.0
+ 83 84 2.0 91 1.5
+ 84
+ 85 88 1.0 90 1.0 89 1.0
+ 86
+ 87
+ 88
+ 89
+ 90
+ 91 99 1.0 92 1.0
+ 92 95 1.0 93 1.0 100 1.0
+ 93 94 2.0 103 1.5
+ 94
+ 95 101 1.0 102 1.0 96 1.0
+ 96 97 2.0 98 2.0
+ 97
+ 98
+ 99
+ 100
+ 101
+ 102
+ 103 104 1.0 109 1.0
+ 104 105 1.0 107 1.0 110 1.0
+ 105 106 2.0 117 1.5
+ 106
+ 107 108 1.0 112 1.0 111 1.0
+ 108 109 1.0 113 1.0 114 1.0
+ 109 115 1.0 116 1.0
+ 110
+ 111
+ 112
+ 113
+ 114
+ 115
+ 116
+ 117 118 1.0 126 1.0
+ 118 119 1.0 127 1.0 121 1.0
+ 119 120 2.0 139 1.5
+ 120
+ 121 122 1.0 128 1.0 129 1.0
+ 122 123 1.0 131 1.0 130 1.0
+ 123 124 1.0 132 1.0 133 1.0
+ 124 125 1.0 134 1.0 135 1.0
+ 125 138 1.0 136 1.0 137 1.0
+ 126
+ 127
+ 128
+ 129
+ 130
+ 131
+ 132
+ 133
+ 134
+ 135
+ 136
+ 137
+ 138
+ 139 147 1.0 140 1.0
+ 140 148 1.0 143 1.0 141 1.0
+ 141 142 2.0 158 1.5
+ 142
+ 143 149 1.0 144 1.0 145 1.0
+ 144 146 1.0 151 1.0 150 1.0
+ 145 154 1.0 152 1.0 153 1.0
+ 146 155 1.0 156 1.0 157 1.0
+ 147
+ 148
+ 149
+ 150
+ 151
+ 152
+ 153
+ 154
+ 155
+ 156
+ 157
+ 158 159 1.0 164 1.0
+ 159 160 1.0 162 1.0 165 1.0
+ 160 161 2.0 172 1.5
+ 161
+ 162 163 1.0 166 1.0 167 1.0
+ 163 164 1.0 168 1.0 169 1.0
+ 164 170 1.0 171 1.0
+ 165
+ 166
+ 167
+ 168
+ 169
+ 170
+ 171
+ 172 177 1.0 173 1.0
+ 173 174 1.0 176 1.0 178 1.0
+ 174 182 1.5 175 2.0
+ 175
+ 176 180 1.0 179 1.0 181 1.0
+ 177
+ 178
+ 179
+ 180
+ 181
+ 182 183 1.0 190 1.0
+ 183 184 1.0 186 1.0 191 1.0
+ 184 185 2.0 201 1.5
+ 185
+ 186 192 1.0 187 1.0 193 1.0
+ 187 188 1.0 189 1.0 194 1.0
+ 188 195 1.0 196 1.0 197 1.0
+ 189 198 1.0 199 1.0 200 1.0
+ 190
+ 191
+ 192
+ 193
+ 194
+ 195
+ 196
+ 197
+ 198
+ 199
+ 200
+ 201 202 1.0 206 1.0
+ 202 203 1.0 207 1.0 205 1.0
+ 203 211 1.5 204 2.0
+ 204
+ 205 208 1.0 209 1.0 210 1.0
+ 206
+ 207
+ 208
+ 209
+ 210
+ 211 212 1.0 217 1.0
+ 212 213 1.0 215 1.0 218 1.0
+ 213 225 1.5 214 2.0
+ 214
+ 215 216 1.0 219 1.0 220 1.0
+ 216 217 1.0 221 1.0 222 1.0
+ 217 223 1.0 224 1.0
+ 218
+ 219
+ 220
+ 221
+ 222
+ 223
+ 224
+ 225 226 1.0 233 1.0
+ 226 227 1.0 229 1.0 234 1.0
+ 227 245 1.0 228 1.0
+ 228 244 1.0
+ 229 235 1.0 236 1.0 230 1.0
+ 230 231 1.0 232 1.0 237 1.0
+ 231 238 1.0 239 1.0 240 1.0
+ 232 241 1.0 242 1.0 243 1.0
+ 233
+ 234
+ 235
+ 236
+ 237
+ 238
+ 239
+ 240
+ 241
+ 242
+ 243
+ 244
+ 245 246 1.0 249 1.0
+ 246 247 1.0 250 1.0 251 1.0
+ 247 248 2.0 252 1.5
+ 248
+ 249
+ 250
+ 251
+ 252 253 1.0 257 1.0
+ 253 258 1.0 254 1.0 256 1.0
+ 254 262 1.5 255 2.0
+ 255
+ 256 259 1.0 260 1.0 261 1.0
+ 257
+ 258
+ 259
+ 260
+ 261
+ 262 267 1.0 263 1.0
+ 263 265 1.0 270 1.0 264 1.0
+ 264 268 2.0 269 2.0
+ 265 266 1.0 271 1.0 272 1.0
+ 266 267 1.0 273 1.0 274 1.0
+ 267 275 1.0 276 1.0
+ 268
+ 269
+ 270
+ 271
+ 272
+ 273
+ 274
+ 275
+ 276
+
+
