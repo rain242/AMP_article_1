@@ -1,0 +1,7 @@
+ReceptorResidue,LigandResidue,Interaction Constituents,Distance,Type
+r:TYR239,l:GLU1,l:GLU1:N - r:TYR239,3.8058,Pi-Cation
+r:TRP539,l:LEU14,r:TRP539 - l:LEU14,4.2203,Pi-Alkyl
+r:TRP539,l:PRO16,r:TRP539 - l:PRO16,5.4558,Pi-Alkyl
+r:TRP539,l:LEU14,r:TRP539 - l:LEU14,5.4489,Pi-Alkyl
+r:TRP539,l:PRO16,r:TRP539 - l:PRO16,5.0553,Pi-Alkyl
+r:TYR581,l:PRO20,r:TYR581 - l:PRO20,5.3462,Pi-Alkyl

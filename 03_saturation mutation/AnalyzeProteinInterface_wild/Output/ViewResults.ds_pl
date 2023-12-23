@@ -1,0 +1,6 @@
+#!/usr/bin/perl
+use MdmDiscoveryScript;
+use SdmDiscoveryScript;
+use DSScript;
+
+my $document = DiscoveryScript::Open({"Path" => "amp_03c9ligand_WILD.dsv", "LoadAllObjects" => False});

@@ -1,0 +1,62 @@
+
+<ELU xmlns="http://www.accelrys.com/dsm/elu/2">
+  <experiment Expanded="Interface Definition" Guid="{DAD18CB8-290F-9BB1-FC46-CB68DAAA5280}" protocol="Protocols/BIOVIA Discovery Studio/Discovery Studio/Macromolecules/Dock Proteins/Analyze Protein Interface" protocolName="Analyze Protein Interface" version="1">
+    <Accl:mpropval name="DSRunInteractive" type="BoolType">
+      <Accl:value>True</Accl:value>
+    </Accl:mpropval>
+    <Accl:mpropval name="Input Protein Complex" type="ProteinstructureType">
+      <Accl:value>amp_03c9ligand:amp_03c9ligand_WILD</Accl:value>
+      <Accl:transformData>3ef9dce3-0914-2538-d6-70-05-5d-62-37-84-46</Accl:transformData>
+    </Accl:mpropval>
+    <Accl:mpropval name="Interface Definition" type="StringType">
+      <Accl:value>Contact Area</Accl:value>
+    </Accl:mpropval>
+    <Accl:mpropval name="Interface Distance Cutoff" type="DoubleType">
+      <Accl:value>6.0</Accl:value>
+      <Accl:transformData>6.0</Accl:transformData>
+    </Accl:mpropval>
+    <Accl:mpropval name="Ligand Chains" type="ChainsOfProteinstructureType">
+      <Accl:value>amp_03c9ligand_WILD:l_1</Accl:value>
+    </Accl:mpropval>
+    <Accl:mpropval name="Maximum Hydrogen Bond Distance" type="DoubleType">
+      <Accl:value>4</Accl:value>
+      <Accl:transformData>4</Accl:transformData>
+    </Accl:mpropval>
+    <Accl:mpropval name="Maximum Salt Bridge Distance" type="DoubleType">
+      <Accl:value>4.0</Accl:value>
+      <Accl:transformData>4.0</Accl:transformData>
+    </Accl:mpropval>
+    <Accl:mpropval name="Maximum Weak Hydrogen Bond Distance" type="DoubleType">
+      <Accl:value>3.8</Accl:value>
+      <Accl:transformData>3.8</Accl:transformData>
+    </Accl:mpropval>
+    <Accl:mpropval name="Neighbor Distance Cutoff" type="DoubleType">
+      <Accl:value>5.0</Accl:value>
+      <Accl:transformData>5.0</Accl:transformData>
+    </Accl:mpropval>
+    <Accl:mpropval name="Percent Contact Area Threshold" type="DoubleType">
+      <Accl:value>0</Accl:value>
+      <Accl:transformData>0</Accl:transformData>
+    </Accl:mpropval>
+    <Accl:mpropval name="Queue Name" type="StringType">
+      <Accl:value></Accl:value>
+    </Accl:mpropval>
+    <Accl:mpropval name="Reporting" type="GroupType">
+      <Accl:value></Accl:value>
+    </Accl:mpropval>
+    <Accl:mpropval name="Reporting Stylesheet" type="StylesheetType">
+      <Accl:value>{D1AB276B-381E-4b8e-9244-37D49F7C11BF}</Accl:value>
+    </Accl:mpropval>
+    <Accl:mpropval name="Run On Grid" type="BoolType">
+      <Accl:value>False</Accl:value>
+    </Accl:mpropval>
+    <Accl:mpropval name="Save Intermediate Files" type="BoolType">
+      <Accl:value>False</Accl:value>
+    </Accl:mpropval>
+    <Accl:mpropval name="Surface Area Probe Radius" type="DoubleType">
+      <Accl:value>0.6</Accl:value>
+      <Accl:transformData>0.6</Accl:transformData>
+    </Accl:mpropval>
+  </experiment>
+
+</ELU>
