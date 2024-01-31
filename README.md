@@ -1,4 +1,4 @@
-# Rationally designed novel antimicrobial peptides against soybean phytophthora blight (ijms-2716247)
+# Rationally Designed Novel Antimicrobial Peptides Targeting Chitin Synthase for Combatting Soybean Phytophthora Blight
 
 This repository contains all the computational methods data and files associated with the research paper titled "Rationally designed novel antimicrobial peptides against soybean phytophthora blight through a computer-aided study" by Yue Ran, Kiran Shehzadi, Jian-hua Liang, and Ming-jia Yu.
 
