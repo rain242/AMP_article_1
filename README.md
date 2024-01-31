@@ -26,10 +26,6 @@ Here, you will find the dynamics simulation files for the TP peptide translocati
 
 Please ensure that you comply with all licensing terms and citation requirements while utilizing or referencing this data. For more details regarding the methodologies, results, and implications of this study, refer to the full text of "Rationally designed novel antimicrobial peptides against soybean phytophthora blight" or contact the authors directly.
 
-## Citation
-When using data from this repository, kindly cite the following source:
-
-Rationally designed novel antimicrobial peptides against soybean phytophthora blight through a computer-aided study. _International Journal of Molecular Sciences_ (ijms-2716247). Ran, Y., Shehzadi, K., Liang, J.-h., & Yu, M.-j. (2023). .
 
 ---
 
